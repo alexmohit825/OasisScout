@@ -4,8 +4,9 @@
 > *Engineered for Dr. A. Alex Mohit • Coachella Valley & Nationwide Real Estate*
 
 [![Repository](https://img.shields.io/badge/GitHub-alexmohit825%2FOasisScout-blue.svg)](https://github.com/alexmohit825/OasisScout)
+[![Live Deployment](https://img.shields.io/badge/Live%20App-oasis--scout.mohalex.workers.dev-success.svg)](https://oasis-scout.mohalex.workers.dev)
 [![Architecture](https://img.shields.io/badge/Stack-React%2019%20%7C%20MapLibre%203D%20%7C%20Cloudflare%20Edge-emerald.svg)](https://github.com/alexmohit825/OasisScout)
-[![PWA](https://img.shields.io/badge/PWA-Installable%20%7C%20Offline%20Ready-amber.svg)](https://github.com/alexmohit825/OasisScout)
+[![PWA](https://img.shields.io/badge/PWA-Installable%20%7C%20Offline%20Ready-amber.svg)](https://oasis-scout.mohalex.workers.dev)
 
 ---
 
