@@ -1,0 +1,26 @@
+{
+  "short_name": "OasisScout",
+  "name": "OasisScout: Microclimate Real Estate & 3D Terrain Intelligence",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0B0F17",
+  "theme_color": "#0B0F17",
+  "display": "standalone",
+  "orientation": "any"
+}
